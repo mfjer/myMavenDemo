@@ -78,6 +78,6 @@ public class EnvProps {
 
 	public static void main(String args[]) {
 //		System.out.println("EVN==" + EnvProps.getInstance().getENV_TYPE());
-		System.out.println("staticResource==" + EnvProps.getInstance().getStaticResource());
+//		System.out.println("staticResource==" + EnvProps.getInstance().getStaticResource());
 	}
 }
